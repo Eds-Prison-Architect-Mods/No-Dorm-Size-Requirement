@@ -1,0 +1,9 @@
+
+Name                 "No Dorm Size Requirement With Toilet and Grading"  
+Author               ItzEdInYourBed  
+Description          "Removed the dorm room size requirement for those who want to build 1x3 rooms :3\r\n\r\nThis version includes the toilet requirement and includes grading. If you want one without toilet requirement and without grading just click the link bellow.\r\n\r\nCheck out the other version of this mod. [url=http://steamcommunity.com/sharedfiles/filedetails/?id=679926678]Without toilet requirement and grading.[/url]\r\n\r\nImage creditting goes to [url=http://steamcommunity.com/id/NSGCakeMaster]NSGCakeMaster[/url]"  
+Version              1.0.1  
+IsTranslation        false  
+FileID               F679926866  
+UpdateTime           1462606116  
+SteamAuthor          A76561198140191052  

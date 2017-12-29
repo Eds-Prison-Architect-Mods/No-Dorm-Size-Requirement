@@ -1,0 +1,28 @@
+
+BEGIN Room
+    Name                 Dormitory
+    Properties           Housing
+    Properties           QualityGraded
+    BEGIN Requirement Type MinimumSize  x 1  y 1  END
+    BEGIN Requirement Type Enclosed END
+    BEGIN Requirement Type Indoor  END
+    BEGIN Requirement Type Object  Id Bed Alt BunkBed END
+    BEGIN Requirement Type Object  Id Toilet  END
+    BEGIN LikelyObject	Id		JailDoor		END
+    BEGIN LikelyObject  Id      Bookshelf       END
+    BEGIN LikelyObject  Id      Tv              END
+    BEGIN LikelyObject  Id      Window          END
+    BEGIN LikelyObject  Id      Radio           END
+    BEGIN LikelyObject  Id      PoolTable       END
+    BEGIN LikelyObject  Id      PhoneBooth      END
+    BEGIN Grading       Type    RoomSize Size   6               END
+    BEGIN Grading       Type    RoomSize Size   12              END
+    BEGIN Grading       Type    RoomSize Size   18              END
+    BEGIN Grading       Type    Item    Id      ShowerHead      END
+    BEGIN Grading       Type    Item    Id      Tv              END
+    BEGIN Grading       Type    Item    Id      Radio           END
+    BEGIN Grading       Type    Item    Id      Bookshelf       END
+    BEGIN Grading       Type    Item    Id      Chair           END
+    BEGIN Grading       Type    Item    Id      PoolTable       END
+    BEGIN Grading       Type    OutsideWindow   Stackable true  END
+END
